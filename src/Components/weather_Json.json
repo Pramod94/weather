@@ -1,0 +1,29 @@
+{
+    "day": "Thursday",
+    "location": "Bangalore",
+    "current": [
+        "Clear",
+        "Thurderstorm",
+        "Cloudy"
+    ],
+    "next": [
+        {
+            "day": "Friday",
+            "location": "Bangalore",
+            "current": [
+                "Clear",
+                "Thurderstorm",
+                "Cloudy"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "location": "Bangalore",
+            "current": [
+                "Clear",
+                "Thurderstorm",
+                "Cloudy"
+            ]
+        }
+    ]
+}

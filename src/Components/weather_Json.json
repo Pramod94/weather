@@ -1,29 +1,26 @@
 {
     "day": "Thursday",
     "location": "Bangalore",
-    "current": [
-        "Clear",
-        "Thurderstorm",
-        "Cloudy"
-    ],
+    "current": "Clear",
+    "absolute_temp" : "33",
+    "maximum_temp" : "37",
+    "minimum_temp" : "25",
     "next": [
         {
             "day": "Friday",
             "location": "Bangalore",
-            "current": [
-                "Clear",
-                "Thurderstorm",
-                "Cloudy"
-            ]
+            "current": "Thurderstorm",
+            "absolute_temp" : "",
+            "maximum_temp" : "35",
+            "minimum_temp" : "23"
         },
         {
             "day": "Saturday",
             "location": "Bangalore",
-            "current": [
-                "Clear",
-                "Thurderstorm",
-                "Cloudy"
-            ]
+            "current": "Cloudy",
+            "absolute_temp" : "",
+            "maximum_temp" : "38",
+            "minimum_temp" : "22"
         }
     ]
 }

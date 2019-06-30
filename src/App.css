@@ -1,11 +1,4 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
-.next{
-  color:blue;
-  display: block;
-  border: 3px solid rgb(97, 196, 97);
-  padding: 10px;
-  margin: 10px;
-}

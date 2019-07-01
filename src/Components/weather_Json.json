@@ -21,6 +21,22 @@
             "absolute_temp" : "",
             "maximum_temp" : "38",
             "minimum_temp" : "22"
+        },
+        {
+            "day": "Sunday",
+            "location": "Bangalore",
+            "current": "Thurderstorm",
+            "absolute_temp" : "",
+            "maximum_temp" : "35",
+            "minimum_temp" : "21"
+        },
+        {
+            "day": "Monday",
+            "location": "Bangalore",
+            "current": "Clear",
+            "absolute_temp" : "",
+            "maximum_temp" : "30",
+            "minimum_temp" : "20"
         }
     ]
 }

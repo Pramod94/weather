@@ -1,4 +1,34 @@
 
+
 .today{
-    color : violet;
+    background-image:url("/src/Components/Images/sky.jpg");
+    background-color: cornflowerblue;
+    padding: 20px;
+    border: 4px solid grey;
+}
+
+.day{
+    text-align: left ;
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+.temp{
+    margin: 40px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+.tempdetails{
+    float: left;
+    padding: 5px;
+    color: whitesmoke;
+}
+
+.otherdetails{
+    display: block;
+    float: right;
+    color: whitesmoke;
+    padding : 0px 50px;
 }

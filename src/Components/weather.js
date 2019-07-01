@@ -2,15 +2,14 @@ import React from 'react';
 import weather from './weather_Json.json';
 import Today from './Today/today';
 import Nextdays from './Nextdays/nextdays';
-import '/home/pramod/React/weather/src/Components/weather.css'
 
 function Weather() {
     return (
         <div>
-            <h2>Weather report</h2>
-            <Today today={weather} /> <hr />
+            <h2 style={{textAlign:'center'}}>Weather report</h2>
+            <Today today={weather} /> <br /><br /><br /><br />
+            <div>
             <h3>Upcoming Days</h3>
-            <div className="next" >
                 <Nextdays nxt={weather.next} />
             </div>
         </div>
